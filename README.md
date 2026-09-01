@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1927-sum-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
