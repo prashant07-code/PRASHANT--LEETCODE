@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Number Theory
 |  |
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0040-combination-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
