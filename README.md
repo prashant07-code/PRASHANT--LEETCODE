@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
