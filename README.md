@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0007-reverse-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
