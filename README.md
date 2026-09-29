@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0697-degree-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
