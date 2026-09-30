@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0697-degree-of-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1920-build-array-from-permutation](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
