@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
 | [0697-degree-of-an-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0697-degree-of-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1920-build-array-from-permutation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Number Theory
 |  |
