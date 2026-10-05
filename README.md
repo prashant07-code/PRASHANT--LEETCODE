@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0058-length-of-last-word) |
 | [0394-decode-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0394-decode-string) |
+| [0856-score-of-parentheses](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1927-sum-game](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0394-decode-string) |
+| [0856-score-of-parentheses](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0856-score-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
