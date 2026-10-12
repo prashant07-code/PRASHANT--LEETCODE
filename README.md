@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 ## Quicksort
 |  |
 | ------- |
