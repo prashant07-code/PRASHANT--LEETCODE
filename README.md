@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0856-score-of-parentheses) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
