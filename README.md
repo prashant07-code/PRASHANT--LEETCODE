@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0063-unique-paths-ii) |
 ## Matrix
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
