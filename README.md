@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |
