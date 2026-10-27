@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
