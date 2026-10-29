@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0217-contains-duplicate](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
 | [0697-degree-of-an-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0697-degree-of-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
