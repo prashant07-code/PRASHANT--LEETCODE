@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0697-degree-of-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0697-degree-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
