@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0217-contains-duplicate](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0217-contains-duplicate) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
