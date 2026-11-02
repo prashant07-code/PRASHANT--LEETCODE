@@ -12,6 +12,7 @@ class Solution {
          if(map[current- 'a'] == 1){
             continue;
          }
+
           while (!st.isEmpty() && current < st.peek() && lastidx[st.peek() - 'a'] > i) {
                 char removed = st.pop();
                 map[removed - 'a'] = 0;
@@ -20,10 +21,10 @@ class Solution {
             st.push(current);
             map[current - 'a'] = 1;
         }
-           StringBuilder result = new StringBuilder();
-                for (char ch : st) {
-                result.append(ch);
-        }
+            StringBuilder result = new StringBuilder();
+           for (int i = 0; i < st.size(); i++) {
+             result.append(st.get(i));
+      }
         return result.toString();
        
     }
