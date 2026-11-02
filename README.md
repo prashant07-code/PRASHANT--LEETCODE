@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0394-decode-string) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0856-score-of-parentheses) |
 ## Recursion
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0455-assign-cookies) |
 | [1927-sum-game](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
