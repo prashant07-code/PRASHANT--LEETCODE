@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0063-unique-paths-ii) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prashant07-code/PRASHANT--LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
